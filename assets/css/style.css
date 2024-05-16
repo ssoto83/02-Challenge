@@ -85,21 +85,15 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* consolidated benefits */
-.benefits-item {
-    margin-bottom: 32px;
-    color: #ffffff;
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.benefits-item h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits-item img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .search-engine-optimization {
@@ -132,30 +126,33 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
-
 .online-reputation-management img {
     max-height: 200px;
 }
-
 .social-media-marketing img {
     max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* consolidated benefit class and called it benefit-item */
+.benefits-item {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
 
+.benefits-item h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits-item img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 .footer {
     padding: 30px;
     clear: both;
