@@ -138,6 +138,7 @@ p {
     font-size: 36px;
 }
 /* consolidated benefit class and called it benefit-item */
+/* Moved the order of some of this to match the order of the index */
 .benefits-item {
     margin-bottom: 32px;
     color: #ffffff;
